@@ -1,0 +1,20 @@
+{
+    "name": "SayHello",
+    "version": "1.0.0",
+    "description": "Library creation demo",
+    "keywords": "Ho To, Library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aliasthethird/Lib-Demo.git"
+    },
+    "authors": [
+        {
+            "name": "Gero Nootz",
+            "email": "gero@nootz.de",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
