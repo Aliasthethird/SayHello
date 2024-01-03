@@ -1,5 +1,8 @@
 # ChangeLog for Lib-Demo
 
+## [1.0.4] - 2024-01-03
+### updated keywords in library.jason
+
 ## [1.0.3] - 2024-01-03
 ### updated YouTube link in readme.md
 
