@@ -1,5 +1,8 @@
 # ChangeLog for Lib-Demo
 
+## [1.0.2] - 2024-01-03
+### updated YouTube link in readme.md
+
 ## [1.0.2] - 2023-12-29
 ### add readme.md
 
