@@ -2,7 +2,7 @@
     "name": "SayHello",
     "version": "1.0.3",
     "description": "Library creation demo",
-    "keywords": "Ho To, Library",
+    "keywords": "How To, PlatformIO Library",
     "repository": {
         "type": "git",
         "url": "https://github.com/Aliasthethird/SayHello.git"
